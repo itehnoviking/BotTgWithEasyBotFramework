@@ -7,13 +7,6 @@ using Telegram.Bot.Types.ReplyMarkups;
 
 namespace YourEasyBot
 {
-    /* Notes:
-	 * 1. To use this example, first paste your bot token in the Project Properties > Debug > Application arguments
-	 * 2. This software is provided "as-is", without any warranty or liability (license MIT)
-	 * 3. This project can help you write little bots with sequential logic methods, awaiting consecutive user messages
-	 * 3.14 However this was written as fun project, it would not be reasonable to use it in serious company code
-	 */
-
     internal class YourBot : EasyBot
     {
         static void Main(string[] args)
